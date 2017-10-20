@@ -1,47 +1,60 @@
 body {
-	background-image: url("../images/background3.jpg");
-	padding: 0;
-	margin: 0;
-	background-repeat: no-repeat;
-	background-size: cover;
+    background-image: url("../images/background3.jpg");
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 .topHeading {
-	background-color: black;
-	color: white;
-	font-size: 80px;
-	text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 80px;
+    text-align: center;
 }
+
 .bottomHeading {
-	width: 100%;
-	background-color: black;
-	color: white;
-	text-align: center;
-	padding: 0;
-	margin: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0;
 }
 
 #container {
-	width: 600px;
-	border-radius: 5px;
-	padding: 10px;
-	background-color: #dddddd;
-	margin: 10% auto;
-	text-align: center;
-	margin-top: 200px;
+    width: 600px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #dddddd;
+    margin: 10% auto;
+    text-align: center;
+    margin-top: 200px;
 }
+
 #letters a {
-	color: black;
-	background-color: darkgray;
-	border-radius: 5px;
-	padding: 5px;
-	cursor: pointer;
-	margin: 2px;
-	display: inline-block;
+    color: black;
+    background-color: darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    margin: 2px;
+    display: inline-block;
 }
-#letters a:hover{
-	color: blue;
+
+#letters a:hover {
+    color: blue;
 }
-#letters a .d{
-	color: white;
-	text-decoration: underline;
+
+#letters a .d {
+    color: white;
+    text-decoration: underline;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a:hover {
+    cursor: pointer;
 }
