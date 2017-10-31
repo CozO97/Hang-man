@@ -2,21 +2,20 @@
 ---------------------------------------------------------------------
 Simple Game of Hangman using Javascript, Jquery, HTML
 
-![](/images/Hangman1RDME.png)
+First step is to start guessing the snowboarding mountain.
 
+![](/assets/images/Hangman1RDME.png)
 
-First step is to display all the products on sale and ask which the customer would like to purchase.
+Next the user will be able to click on the letters to guess the mountain.
 
-![](/images/bamazon1.png)
+![](/assets/images/Hangman2RDME.png)
 
-Next the user enter which product they would like to buy and the quantity they wish to purchase. After they select
-the quantity they will get a message saying they purchased their item.
+You are given 10 Lives to guess the correct mountain. Everytime a letter guessed is wrong you will lose one life.
 
-![](/images/bamazon2.png)
+![](/assets/images/Hangman3RDME.png)
 
-If there is not a sufficent stock of the product they wish to purchase they will get a message saying 
-there isnt enough stock.
+If you guess all the letters correct you will be promted that you won and the game will restart. And you will have to guess a new mountain that has been choosen at random.
 
-![](/images/bamazon3.png)
+![](/assets/images/Hangman4RDME.png)
 
-The user will be prompted after each transaction if they want to buy more items.
+If you run out of lives before guessing the mountain correctly you will be promt that you lost and the game will restart and a new mountain will be choosen automatically.
