@@ -1,4 +1,5 @@
-# Hangman
+# **Hangman**
+---------------------------------------------------------------------
 Simple Game of Hangman using Javascript, Jquery, HTML
 
 ![](/images/Hangman1RDME.png)
