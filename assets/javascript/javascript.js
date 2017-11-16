@@ -100,7 +100,7 @@ $(function() {
      $(".letter").click(function(event) {
         
         var answer = $(this).data('letter');
-        console.log(answer);
+        //console.log(answer);
         event.preventDefault();
         updateLetter(answer);
     });
